@@ -1,0 +1,76 @@
+{
+    "name": "Orbital Insight",
+    "description": "Understanding global and national trends through advanced image processing and data science at petabyte scale.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28245-orbital-insight.jpg",
+    "tags": [
+        "have api",
+        "satellites"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/orbital-insight\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Orbital Insight",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28245-orbital-insight.jpg",
+            "humanURL": "http:\/\/orbitalinsight.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/orbital-insight-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/orbital-insight-inc"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@orbitalinsight.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@orbitalinsight.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales.japan@orbitalinsight.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@orbitalinsight.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@orbitalinsight.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/orbitalinsight"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/orbital-insight-inc-"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/orbital_insight"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/orbitalinsight.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/orbitalinsight.com"
+        }
+    ]
+}

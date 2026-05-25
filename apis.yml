@@ -1,0 +1,75 @@
+aid: orbital-insight
+name: Orbital Insight
+description: >-
+  Orbital Insight was a Palo Alto, California geospatial analytics company
+  founded in 2013 by James Crawford (formerly Bell Labs, Google Books, and
+  NASA's Mars rover program). The company applied computer vision and machine
+  learning to satellite imagery, aerial photography, AIS vessel signals, and
+  IoT/mobile location data to produce intelligence on supply chains, global
+  commodities (notably oil storage via its Global Geospatial Crude Index),
+  geopolitical events, demographics, retail foot traffic, disaster damage,
+  and national-security questions. Its flagship product was the GO platform
+  (later rebranded TerraScope), a self-service geospatial intelligence
+  platform layering proprietary models over commercial satellite imagery
+  from partners including DigitalGlobe, Airbus, Planet Labs, and e-GEOS.
+  Orbital Insight raised funding from In-Q-Tel, GV (Google Ventures), Sequoia
+  Capital, CME Ventures, and others, and acquired Boston-based FeatureX in
+  2018. After a period of financial distress in 2023, Orbital Insight was
+  acquired by Privateer (co-founded by Apple's Steve Wozniak and Alex
+  Fielding) on May 6, 2024. Following the acquisition, the standalone
+  orbitalinsight.com brand was wound down and the TerraScope platform is now
+  offered by Privateer alongside its Wayfinder space-domain-awareness data
+  engine, fused into Privateer's "Elements" all-domain data platform. As of
+  2026 there is no public self-service Orbital Insight developer API, SDK,
+  or open-source release; the orbitalinsight GitHub organization has only
+  two archived repositories (a region-aggregation reference and a fork of
+  tileserver-gl) and no current developer portal.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Geospatial
+  - Geospatial Analytics
+  - Satellite Imagery
+  - Earth Observation
+  - Remote Sensing
+  - Computer Vision
+  - Machine Learning
+  - Artificial Intelligence
+  - Supply Chain
+  - Commodities
+  - Oil And Gas
+  - Defense And Intelligence
+  - National Security
+  - Maritime
+  - AIS
+  - IoT Location
+  - Acquired
+  - Privateer
+  - TerraScope
+url: https://raw.githubusercontent.com/api-evangelist/orbital-insight/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://orbitalinsight.com
+  - type: Successor
+    url: https://www.privateer.com
+  - type: TerraScope
+    url: https://www.privateer.com
+  - type: AcquisitionAnnouncement
+    url: https://spacenews.com/acquires-orbital-insight/
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Orbital_Insight
+  - type: GitHub
+    url: https://github.com/orbitalinsight
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/orbital-insight
+  - type: CrunchBase
+    url: https://www.crunchbase.com/organization/orbital-insight
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

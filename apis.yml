@@ -56,8 +56,8 @@ tags:
   - Satellite Imagery
   - Earth Observation
   - Remote Sensing
-  - Computer-Vision
-  - Machine-Learning
+  - Computer Vision
+  - Machine Learning
   - Artificial Intelligence
   - Supply Chain
   - Commodities
@@ -90,6 +90,8 @@ tags_raw:
   - Acquired
   - Privateer
   - TerraScope
+  - Computer-Vision
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/orbital-insight/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
@@ -117,3 +119,8 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-status: acquired
+x-acquired-by: "Privateer"
+x-acquired-date: '2024'
+x-status-source: "https://www.orbitalinsight.com/"
+x-status-evidence: "orbitalinsight.com reads 'Orbital Insight is now Privateer' and forwards to privateer.com (fetched 2026-10-03); Privateer is not in the catalog (roadmap#812)"

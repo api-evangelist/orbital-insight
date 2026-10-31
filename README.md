@@ -1,4 +1,4 @@
-# orbital-insight
+# Orbital Insight
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Orbital Insight — geospatial analytics + satellite imagery AI (acquired by Privateer, May 2024)
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
+Orbital Insight was a Palo Alto, California geospatial analytics company founded in 2013 by James Crawford (formerly Bell Labs, Google Books, and NASA's Mars rover program). The company applied computer vision and machine learning to satellite imagery, aerial photography, AIS vessel signals, and IoT/mobile location data to produce intelligence on supply chains, global commodities (notably oil storage via its Global Geospatial Crude Index), geopolitical events, demographics, retail foot traffic, disaster damage, and national-security questions. Its flagship product was the GO platform (later rebranded TerraScope), a self-service geospatial intelligence platform layering proprietary models over commercial satellite imagery from partners including DigitalGlobe, Airbus, Planet Labs, and e-GEOS. Orbital Insight raised funding from In-Q-Tel, GV (Google Ventures), Sequoia Capital, CME Ventures, and others, and acquired Boston-based FeatureX in 2018. After a period of financial distress in 2023, Orbital Insight was acquired by Privateer (co-founded by Apple's Steve Wozniak and Alex Fielding) on May 6, 2024. Following the acquisition, the standalone orbitalinsight.com brand was wound down and the TerraScope platform is now offered by Privateer alongside its Wayfinder space-domain-awareness data engine, fused into Privateer's "Elements" all-domain data platform. As of 2026 there is no public self-service Orbital Insight developer API, SDK, or open-source release; the orbitalinsight GitHub organization has only two archived repositories (a region-aggregation reference and a fork of tileserver-gl) and no current developer portal.
+
+**Areas:** Geospatial · Geospatial Analytics · Satellite Imagery · Earth Observation · Remote Sensing · Computer Vision · Machine Learning · Artificial Intelligence · Supply Chain · Commodities · Oil and Gas · Defense and Intelligence
+
+## Orbital Insight on APIs.io (historical record)
+
+Everything profiled for Orbital Insight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/orbital-insight/](https://apis.io/providers/orbital-insight/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Orbital Insight Domain Security](https://apis.io/security/orbital-insight/orbital-insight-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://orbitalinsight.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Orbital Insight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/orbital-insight/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
